@@ -25,7 +25,9 @@ Check out my [resume](https://docs.google.com/document/d/1lZHBu86A2lEeNiPYb6-ESu
 Business Intelligence Intern and Data Scientist - Center4Bi/OPS Security Group - [LinkedIn](https://www.linkedin.com/in/varunvellorerao/)
 
 ## Social Media:
-[YouTube Channel](https://www.youtube.com/channel/UC63n6iMjOGNjOYfucF-mz8A)
+[YouTube Channel](https://www.youtube.com/channel/UC63n6iMjOGNjOYfucF-mz8A)<br />
+[HackerRank](https://www.hackerrank.com/varunvellorerao)<br />
+[Twitter](https://twitter.com/durjaman_27)
 
 ## Technology Volunteer Experience:
 [Robotics For All](https://www.roboticsforall.net/) - Course Creation Intern and Volunteer Teacher - March 2021 - September 2021<br />
