@@ -19,6 +19,7 @@ Check out my [resume](https://docs.google.com/document/d/1lZHBu86A2lEeNiPYb6-ESu
 
 ## Certifications and Courses:
 [Wharton Data Science Academy](https://github.com/DurjaMan27/DurjaMan27/blob/main/Wharton%20DSA%20Certificate.png)<br />
+[Columbia Summer Immersion Program](https://github.com/DurjaMan27/DurjaMan27/blob/main/Columbia%20Summer%20Certificate.png)<br />
 [Data Camp Python Data Scientist](https://www.datacamp.com/statement-of-accomplishment/track/b0ec60d4f74412845f7afcb2f99f6751788e72c5?raw=1)
 
 ## Work Experience:
