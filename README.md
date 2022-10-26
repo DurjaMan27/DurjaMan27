@@ -18,7 +18,7 @@ Check out my [resume](https://docs.google.com/document/d/1lZHBu86A2lEeNiPYb6-ESu
 [Finance - Investment Portfolio Optimization - August 2020](https://app.datacamp.com/workspace/w/c5df972e-e424-4c4e-853f-9683fc2e4e50)<br />
 
 ## Certifications and Courses:
-[Wharton Data Science Academy]
+[Wharton Data Science Academy](https://github.com/DurjaMan27/DurjaMan27/blob/main/Wharton%20DSA%20Certificate.png)<br />
 [Data Camp Python Data Scientist](https://www.datacamp.com/statement-of-accomplishment/track/b0ec60d4f74412845f7afcb2f99f6751788e72c5?raw=1)
 
 ## Work Experience:
