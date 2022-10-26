@@ -9,7 +9,6 @@
 Check out my [resume](https://docs.google.com/document/d/1lZHBu86A2lEeNiPYb6-ESuy2eldZ1Mcfz6HiCID2N90/edit?usp=sharing)!
 
 ## Projects:
-
 [Algorithmic Trading with Python - December 2020](https://youtu.be/BXQcCSudmcA)<br />
 [Public Health - Covid-19 Case Analysis and Prediction - April 2020](https://app.datacamp.com/workspace/w/dd51271a-45b8-4621-a7e5-fa25239f4c5f)<br />
 [Media and Entertainment - Effect of Streaming Services on Box Office - June 2020](https://app.datacamp.com/workspace/w/f6bc452a-f2da-4ac4-a47a-a49c9b4c994e)<br />
@@ -25,8 +24,9 @@ Check out my [resume](https://docs.google.com/document/d/1lZHBu86A2lEeNiPYb6-ESu
 ## Work Experience:
 Business Intelligence Intern and Data Scientist - Center4Bi/OPS Security Group - [LinkedIn](https://www.linkedin.com/in/varunvellorerao/)
 
-## YouTube Channel - [GlenPiGeeks](https://www.youtube.com/channel/UC63n6iMjOGNjOYfucF-mz8A)
+## Social Media:
+[GlenPiGeeks](https://www.youtube.com/channel/UC63n6iMjOGNjOYfucF-mz8A)
 
-## Technology Volunteer Experience
-[Robotics For All](https://www.roboticsforall.net/) - Course Creation Intern and Volunteer Teacher - March 2021 - September 2021
+## Technology Volunteer Experience:
+[Robotics For All](https://www.roboticsforall.net/) - Course Creation Intern and Volunteer Teacher - March 2021 - September 2021<br />
 [Housing Counseling](https://www.fhrtucson.org/) - Volunteer - March 2021 - June 2021
