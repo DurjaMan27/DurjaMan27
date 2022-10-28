@@ -1,8 +1,7 @@
 ### Hello, my name is Varun Rao and I am a high school student! 👋
 
 - 🔭 I’m currently working on [The Green Blender](https://github.com/DurjaMan27/green-blender), an open source project dedicated to environmental sustainability and awareness
-- 🌱 I’m currently learning machine learning models in Python
-- 🤔 I’m looking for help with learning more about open source formatting
+- 🌱 I’m currently learning about machine learning models in Python
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I started coding in Python in 6th grade!
 
