@@ -16,6 +16,15 @@ Check out my [resume](https://docs.google.com/document/d/1lZHBu86A2lEeNiPYb6-ESu
 [Finance - Stock Market Analysis and Prediction - November 2020](https://app.datacamp.com/workspace/w/a61073db-d5d5-4ca9-b34c-1fced5338135)<br />
 [Finance - Investment Portfolio Optimization - August 2020](https://app.datacamp.com/workspace/w/c5df972e-e424-4c4e-853f-9683fc2e4e50)<br />
 
+## Videos:
+[Technology Portfolio](https://youtu.be/N66PA_KtMVE)
+[GPG Photobooth Demo Video](https://youtu.be/8Fum5pWQtwA)
+[GPG Photobooth 2.0 Demo Video](https://youtu.be/aGcP_ejkhp4)
+[GPG Photobooth 3.0 Demo Video](https://youtu.be/Cq8JOi46QMU)
+[Data Science Introduction Video](https://youtu.be/JUj2kCLbMLA)
+[Effect of Streaming Services on Box Office Video](https://youtu.be/6cVFm3v29nM)
+[Python for Finance Video](https://youtu.be/UEwBUyHO6Ic)
+
 ## Certifications and Courses:
 [Wharton Data Science Academy](https://github.com/DurjaMan27/DurjaMan27/blob/main/Wharton%20DSA%20Certificate.png)<br />
 [Columbia Summer Immersion Program](https://github.com/DurjaMan27/DurjaMan27/blob/main/Columbia%20Summer%20Certificate.png)<br />
