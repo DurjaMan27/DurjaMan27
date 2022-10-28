@@ -17,12 +17,12 @@ Check out my [resume](https://docs.google.com/document/d/1lZHBu86A2lEeNiPYb6-ESu
 [Finance - Investment Portfolio Optimization - August 2020](https://app.datacamp.com/workspace/w/c5df972e-e424-4c4e-853f-9683fc2e4e50)<br />
 
 ## Videos:
-[Technology Portfolio](https://youtu.be/N66PA_KtMVE)
-[GPG Photobooth Demo Video](https://youtu.be/8Fum5pWQtwA)
-[GPG Photobooth 2.0 Demo Video](https://youtu.be/aGcP_ejkhp4)
-[GPG Photobooth 3.0 Demo Video](https://youtu.be/Cq8JOi46QMU)
-[Data Science Introduction Video](https://youtu.be/JUj2kCLbMLA)
-[Effect of Streaming Services on Box Office Video](https://youtu.be/6cVFm3v29nM)
+[Technology Portfolio](https://youtu.be/N66PA_KtMVE)<br />
+[GPG Photobooth Demo Video](https://youtu.be/8Fum5pWQtwA)<br />
+[GPG Photobooth 2.0 Demo Video](https://youtu.be/aGcP_ejkhp4)<br />
+[GPG Photobooth 3.0 Demo Video](https://youtu.be/Cq8JOi46QMU)<br />
+[Data Science Introduction Video](https://youtu.be/JUj2kCLbMLA)<br />
+[Effect of Streaming Services on Box Office Video](https://youtu.be/6cVFm3v29nM)<br />
 [Python for Finance Video](https://youtu.be/UEwBUyHO6Ic)
 
 ## Certifications and Courses:
