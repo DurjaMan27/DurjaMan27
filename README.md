@@ -4,7 +4,7 @@ Check out my [resume](https://github.com/DurjaMan27/DurjaMan27.github.io/blob/ma
 Check out my [LinkedIn](https://linkedin.com/in/varunvrao) too!
 
 ## Some of My Recent Projects:
-[3Define](https://three-domain.vercel.app/)<br />
+[3Domain](https://three-domain.vercel.app/)<br />
 [TreeTrader](https://github.com/DurjaMan27/treetrader)<br />
 [Sourcerer](https://github.com/DurjaMan27/sourcerer)<br />
 [Completions](https://github.com/DurjaMan27/skowronektions)<br />
