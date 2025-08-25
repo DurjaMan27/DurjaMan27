@@ -1,6 +1,6 @@
 ### Hello, my name is Varun Rao, and I am an incoming senior at the University of Maryland!
 
-Check out my [resume](https://docs.google.com/document/d/1lZHBu86A2lEeNiPYb6-ESuy2eldZ1Mcfz6HiCID2N90/edit?usp=sharing)!<br />
+Check out my [resume](https://github.com/DurjaMan27/DurjaMan27.github.io/blob/main/resume.pdf)!<br />
 Check out my [LinkedIn](https://linkedin.com/in/varunvrao) too!
 
 ## Some of My Recent Projects:
@@ -8,7 +8,6 @@ Check out my [LinkedIn](https://linkedin.com/in/varunvrao) too!
 [TreeTrader](https://github.com/DurjaMan27/treetrader)<br />
 [Sourcerer](https://github.com/DurjaMan27/sourcerer)<br />
 [Completions](https://github.com/DurjaMan27/skowronektions)<br />
-
 
 ## Some of My High School Projects:
 [Algorithmic Trading with Python - December 2020](https://youtu.be/BXQcCSudmcA)<br />
@@ -19,7 +18,7 @@ Check out my [LinkedIn](https://linkedin.com/in/varunvrao) too!
 [Finance - Investment Portfolio Optimization - August 2020](https://app.datacamp.com/workspace/w/c5df972e-e424-4c4e-853f-9683fc2e4e50)<br />
 
 ## Certifications and Courses:
-[AWS Certified Cloud Practitioner]()<br />
+[AWS Certified Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/cc384f7087544fedbc6a0ae0dbe739d0)<br />
 [Data Camp Python Data Scientist](https://www.datacamp.com/statement-of-accomplishment/track/b0ec60d4f74412845f7afcb2f99f6751788e72c5?raw=1)
 
 ## Work Experience:
